@@ -1,5 +1,4 @@
-# SPRINT: Speedy Parallel Recognition Interface for
-Severe Diabetic Retinopathy
+# SPRINT: Speedy Parallel Recognition Interface for Severe Diabetic Retinopathy
 
 
 Given the wide-scale availability of high dimensional and high sample count datasets primed for
